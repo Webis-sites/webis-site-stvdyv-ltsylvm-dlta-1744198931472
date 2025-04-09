@@ -1,8 +1,11 @@
 {
-  "projectName": "סטודיו-לצילום-דלתא-8931",
-  "businessName": "סטודיו לצילום דלתא",
-  "created": "2025-04-09T11:42:11.521Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-04-09T11:42:35.475Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [],
+  "repoName": "webis-site-stvdyv-ltsylvm-dlta-1744198931472"
 }
